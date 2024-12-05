@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Country Flags</string>
+    <string name="hint_country_name">Wpisz nazwę kraju</string>
+    <string name="button_search">Szukaj</string>
+    <string name="error_no_country">Nie znaleziono kraju!</string>
+    <string name="error_network">Błąd sieci: %1$s</string>
+    <string name="error_processing">Błąd podczas przetwarzania danych.</string>
+    <string name="enter_country_name">Proszę wpisać nazwę kraju!</string>
+    <string name="flag_image_desc">Flaga kraju</string>
+</resources>

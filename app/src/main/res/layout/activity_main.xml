@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Pole do wpisania nazwy kraju -->
+    <EditText
+        android:id="@+id/country_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Wpisz nazwę kraju Europy"
+        android:inputType="text"/>
+
+    <!-- Przycisk do wyszukiwania flagi -->
+    <Button
+        android:id="@+id/show_flag_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pokaż flagę"
+        android:layout_below="@id/country_name"
+        android:layout_marginTop="20dp"
+        android:layout_centerHorizontal="true"/>
+
+    <!-- Miejsce na wyświetlenie flagi -->
+    <ImageView
+        android:id="@+id/flag_image"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_below="@id/show_flag_button"
+        android:layout_marginTop="30dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
