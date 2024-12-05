@@ -9,5 +9,6 @@ To prosta aplikacja na Androida, która umożliwia użytkownikom wprowadzanie na
 
 ## Zrzuty ekranu
 
-![Ekran główny](screenshots/main_screen.png)
-![Wyświetlanie flagi](screenshots/flag_display.png)
+![Greece](screenshots/greece.png)
+![Spain](screenshots/spain.png)
+![Error](screenshots/error.png)
