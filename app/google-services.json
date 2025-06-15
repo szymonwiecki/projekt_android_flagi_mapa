@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "443898039807",
+    "project_id": "androidflagi",
+    "storage_bucket": "androidflagi.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:443898039807:android:46461a2c904d19474dabca",
+        "android_client_info": {
+          "package_name": "com.example.project3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA73TTzhlxbz55eHglq_hNw5uAa1J1iD8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
