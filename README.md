@@ -1,14 +1,19 @@
-# Projekt FLAGI
+# Projekt android
 
-To prosta aplikacja na Androida, która umożliwia użytkownikom wprowadzanie nazwy kraju i pobieranie jego flagi za pomocą interfejsu API.
+To prosta aplikacja na Androida, która po pomyślnej autoryzacji użytkownika, umożliwia mu wprowadzanie nazwy kraju i pobieranie jego flagi za pomocą interfejsu API, oraz centruje mapy google na danym kraju.
 
 ## Funkcje
-- Wprowadzanie nazwy europejskiego kraju
+- Autoryzacja Firebase email/password
+- Wprowadzanie nazwy kraju
 - Wyświetlanie flagi kraju za pomocą interfejsu API restcountries
-- Wyświetlanie komunikatów o błędach dla nieprawidłowych nazw krajów
+- Centrowanie mapy google na podanym kraju
+- Wyświetlanie komunikatów o błędach przy niepoprarawnej rejestracji, logowaniu oraz podaniu nieprawidłowych nazw krajów
 
 ## Zrzuty ekranu
 
-![Greece](screenshots/greece.png)
-![Spain](screenshots/spain.png)
-![Error](screenshots/error.png)
+![Błędne dane wejściowe przy rejestracji](screenshots/niepoprawnedanewejsciowe.png)
+![Próba zalogowania porzed rejestacją](screenshots/probazalogowaniaprzedrejestracja.png)
+![Poprawna rejestracja](screenshots/poprawnarejestracja.png)
+![Niepoprawny kraj](screenshots/niepoprawnykraj.png)
+![Mexico](screenshots/mexico.png)
+![Poland](screenshots/poland.png)
