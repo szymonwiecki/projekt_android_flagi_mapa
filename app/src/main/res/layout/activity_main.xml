@@ -41,6 +41,7 @@
         android:layout_marginTop="60dp"
         android:layout_marginEnd="0dp"
         android:layout_marginBottom="-268dp"
+        android:contentDescription="Mapa kraju"
         android:visibility="visible"
         tools:visibility="visible" />
 
